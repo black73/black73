@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>**My Status**</p>
+<h3 align="center">My Status</h3>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
