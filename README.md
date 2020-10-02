@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Khushi Srivastav👋
 
 <h3 align="center">My Status :blush:</h3>
 
