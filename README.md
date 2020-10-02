@@ -4,6 +4,6 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=black73&show_icons=true&hide_border=true&title_color=#F7EF8A&text_color=#F7EF8A&icon_color=#ffffff&bg_color=#1a0000&theme=gruvbox&private=true"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=black73&show_icons=true&hide_border=true&title_color=#F7EF8A&text_color=#F7EF8A&icon_color=#ffffff&bg_color=#1a0000&theme=tokyonight&private=true"/>
  </a>
  </p>
